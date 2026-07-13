@@ -1,18 +1,3 @@
-<<<<<<< HEAD
-
-=======
-# AWS Three-Tier Web Architecture
-
-<p align="center">
-  <img src="images/architecture.png" alt="AWS Three-Tier Architecture" width="1000">
-</p>
-
-<p align="center">
-  A highly available and secure Three-Tier Web Architecture deployed on AWS using Amazon VPC, EC2, Application Load Balancer, and Amazon RDS (MySQL).
-</p>
-
----
-
 ## 📖 Project Overview
 
 This project demonstrates the implementation of a production-style AWS Three-Tier Web Architecture following AWS best practices.
@@ -269,4 +254,4 @@ Repository: https://github.com/TanUjNimkar/aws-3tier-web-architecture
 ---
 
 ## ⭐ If you found this project useful, consider giving it a star on GitHub!
->>>>>>> aa84471 (Added professional README)
+
